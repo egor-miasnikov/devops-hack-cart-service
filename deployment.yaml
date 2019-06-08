@@ -19,7 +19,7 @@ spec:
         - containerPort: 7070
         env:
         - name: REDIS_ADDR
-          value: "hackaton2019-redis.jenkins:6379"
+          value: "hackaton2019-redis-master.jenkins:6379"
         - name: PORT
           value: "7070"
         - name: LISTEN_ADDR
