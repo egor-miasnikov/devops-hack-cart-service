@@ -1,1 +1,0 @@
-# devops-hack-cart-service
